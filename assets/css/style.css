@@ -2,7 +2,7 @@
   margin-bottom: 25px;
 } */
 .h2-login {
-  margin-bottom: 2px;
+  margin-bottom: 10px;
 }
 .content-login {
   text-align: center;
@@ -35,6 +35,7 @@ input {
 }
 .input-text {
   position: relative;
+  margin-bottom: 20px;
 }
 .input-password {
   position: relative;
@@ -44,7 +45,8 @@ input {
   width: 190px;
 }
 .login-gp {
-  margin-bottom: 35px;
+  margin-bottom: 38px;
+  margin-top: 27px;
 }
 input:focus {
   outline: 0;
