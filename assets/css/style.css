@@ -1,0 +1,64 @@
+/* .login-logo {
+  margin-bottom: 25px;
+} */
+.h2-login {
+  margin-bottom: 2px;
+}
+.content-login {
+  text-align: center;
+}
+.otp p {
+  color: #225dd9;
+  text-align: center;
+  font-weight: 700;
+}
+.pera-first {
+  margin-bottom: 45px;
+}
+input {
+  border: none;
+  border-bottom: 2px solid #225dd9;
+}
+.icon {
+  font-size: 24px;
+  color: #225dd9;
+}
+.icon-two {
+  font-size: 24px;
+  color: rgba(165, 158, 158, 0.739);
+}
+.forgetpassword {
+  color: rgba(165, 158, 158, 0.739);
+  text-align: right;
+  margin-top: -20px;
+  margin-bottom: 12px;
+}
+.input-text {
+  position: relative;
+}
+.input-password {
+  position: relative;
+}
+.login-btn {
+  margin-bottom: 21px;
+  width: 190px;
+}
+.login-gp {
+  margin-bottom: 35px;
+}
+input:focus {
+  outline: 0;
+}
+input {
+  width: 100%;
+}
+.span {
+  position: absolute;
+}
+.left-icon {
+  top: -10px;
+}
+.right-icon {
+  right: 0px;
+  top: -10px;
+}

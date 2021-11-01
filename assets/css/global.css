@@ -30,6 +30,10 @@ img {
   border-radius: 50%;
   border: 1px solid #225dd9;
 }
+.icon {
+  font-size: 12px;
+  color: 1px solid #225dd9;
+}
 .btn-group,
 .vector-image {
   text-align: center;
@@ -45,11 +49,13 @@ p {
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-.vector-image {
+/* .vector-image {
   margin-bottom: 42px;
-}
+} */
 main {
   padding: 30px;
+  border: 2px solid gray;
+  height: 812px;
 }
 .btn {
   font-size: 13px;
@@ -83,8 +89,8 @@ p {
   color: #818593;
 }
 .main {
-  width: 375px;
+  max-width: 375px;
   height: 750px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   margin: 20px auto;
 }
