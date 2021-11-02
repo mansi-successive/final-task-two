@@ -21,17 +21,19 @@ img {
   text-align: center;
 }
 .icons a {
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
   display: inline-block;
   vertical-align: top;
   margin: 11px 8px;
   border-radius: 50%;
   border: 1px solid #225dd9;
+  background-color: #f8fbff;
+  font-size: 20px;
 }
 .icon {
-  font-size: 12px;
+  font-size: 22px;
   color: 1px solid #225dd9;
 }
 .btn-group,
@@ -59,22 +61,24 @@ main {
   height: 812px;
 }
 .btn {
-  font-size: 13px;
+  font-size: 17px;
   color: #000;
   font-weight: 700;
   display: inline-block;
   vertical-align: top;
   border-radius: 40px;
   background: transparent;
-  border: 1px solid #000;
+  border: 2px solid #000;
   min-width: 141px;
   padding: 12px 33px;
+  
 }
 .blue-btn {
   background-color: #225dd9;
   border: 0;
   color: #fff;
   margin-right: 10px;
+  border: 2px solid #225dd9;
 }
 .logo {
   margin-bottom: 70px;
@@ -87,7 +91,7 @@ main {
 }
 p {
   font-size: 17px;
-  color: #818593;
+  color: #818593e5;
 }
 .main {
   max-width: 375px;
